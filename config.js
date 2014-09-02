@@ -1,16 +1,16 @@
 var config = {
 
 	// Your site title (format: page_title - site_title)
-	site_title: 'Beneath the Ink Knowledge Base',
+	site_title: 'Knowledge Base',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
 	base_url: 'http://kb.beneaththeink.com',
 
 	// Used for the "Get in touch" page footer link
-	support_email: 'contact@beneaththeink.com',
+	support_email: 'help@beneaththeink.com',
 
 	// Footer copyright content
-	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' Beneath the Ink, Inc. All content distributed under <a href="http://opensource.org/licenses/MIT" target="_blank">MIT</a>.',
+	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' <a href="http://beneaththeink.com" target="_blank">Beneath the Ink, Inc.</a> All rights reserved. <a href="mailto:help@beneaththeink.com" data-helpful="beneath-the-ink" data-helpful-modal="on">Contact Us</a>',
 
 	// Excerpt length (used in search)
 	excerpt_length: 400,

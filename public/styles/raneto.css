@@ -1,20 +1,26 @@
 .header {
-    background: #2C323D;
+    background: #ba8e04;
     color: #ccc;
 }
 .header .container-fluid {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.header a { color: #ddd; }
+.header a { color: black; }
 .header a:hover {
-    color: #fff;
+    /*color: black;*/
     text-decoration: none;
 }
 .header .logo {
     font-size: 20px;
     line-height: 34px;
     margin-left: 20px;
+    font-weight: bold;
+}
+.header .logo img {
+    max-height: 34px;
+    margin-right: 5px;
+    display: inline-block;
 }
 .header .search-form {
     margin-right: 20px;
