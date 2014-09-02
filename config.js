@@ -1,16 +1,16 @@
 var config = {
 
 	// Your site title (format: page_title - site_title)
-	site_title: 'Raneto Docs',
+	site_title: 'Beneath the Ink Knowledge Base',
 
 	// The base URL of your site (can use %base_url% in Markdown files)
-	base_url: '',
+	base_url: 'http://kb.beneaththeink.com',
 
 	// Used for the "Get in touch" page footer link
-	support_email: '',
+	support_email: 'contact@beneaththeink.com',
 
 	// Footer copyright content
-	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' - <a href="http://raneto.com">Powered by Raneto</a>',
+	copyright: 'Copyright &copy; '+ new Date().getFullYear() +' Beneath the Ink, Inc. All content distributed under <a href="http://opensource.org/licenses/MIT" target="_blank">MIT</a>.',
 
 	// Excerpt length (used in search)
 	excerpt_length: 400,
@@ -21,7 +21,7 @@ var config = {
 
 	// Should categories be sorted numerically (true) or alphabetically (false)
 	// If true category folders need to contain a "sort" file with an integer value
-	category_sort: true,
+	category_sort: false,
 
 	// The base URL of your images folder (can use %image_url% in Markdown files)
 	image_url: '/images',

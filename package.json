@@ -23,7 +23,8 @@
   ],
   "main": "./app",
   "scripts": {
-    "start": "node ./bin/www",
+    "start": "PORT=8007 node ./bin/www > ./main.log 2>&1 &",
+    "dev": "node ./bin/www",
     "postinstall": "npm update"
   },
   "engines": {
