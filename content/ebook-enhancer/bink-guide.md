@@ -4,7 +4,7 @@ Title: The Bink Guide
 
 ### What is a Bink?
 
-Think about your favorite book, you're reading along and you stumble across the mention of a place, and wish you had a map. Maybe you go and look at an atlas, or more likely, you look online. Then maybe you check your facebook, email, and favorite news site. Next thing you know, it's been 45 minutes, and you've left that book entirely. Your flow is completely interrupted. Binks solve that problem. You get to embed that extra content into the body of the text.
+Think about your favorite book, you're reading along and you stumble across the mention of a place, and wish you had a map. Maybe you go and look at an atlas, or more likely, you look online. Then maybe you check your Facebook, email, and favorite news site. Next thing you know, it's been 45 minutes, and you've left that book entirely. Your flow is completely interrupted. Binks solve that problem. You get to embed that extra content into the body of the text.
 
 Essentially, a Bink is a container that holds whatever your heart desires; maps, images, audio, video, definitions, footnotes, and author insights. These containers are anchored to a specific word in the text, so that when a reader clicks on that word, they get instant passage to your additional content without even having to leave the page. Unlike a hyperlink, which you may be more  familiar with, Binks do not remove the reader from the book and take them online or to a different location within the text. Binks sit nestled just beneath the ink, waiting to be discovered.
 
@@ -46,5 +46,9 @@ Conversely, don't be too simplistic with your Binks. The last thing you want to 
 Ultimately, trust your own best judgment- you know which parts of your story demanded deep research or character building, and those are the sections that will lend themselves beautifully to Binks. Never forget that sometimes less is more!
 
 ![](%image_url%/ebook-enhancer/bink-guide/j2XAkLm.png?1)
+
+#### Links As Binks
+
+Links and Binks are like oil and water: they don't mix well. If you want to include an external link *inside* of a Bink, that is easy (just use [Markdown formatting](https://help.github.com/articles/markdown-basics)), but you should never put a Bink *over* a link (IE highlight a link and add a Bink to it). So before you start Binking, make sure to remove the links from any words or phrases that will become Binks!
 
 Happy Binking! 
